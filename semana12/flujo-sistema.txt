@@ -1,0 +1,15 @@
+El ciudadano ingresa a la plataforma y crea una nueva petición,
+escribiendo el título, la descripción del problema y la entidad a la que va dirigida.
+
+El sistema guarda toda la información de la petición en la base de datos y 
+la publica para que otras personas puedan conocerla.
+
+Los ciudadanos interesados ingresan a la plataforma, revisan la petición y 
+registran su apoyo de forma segura.
+
+El sistema actualiza automáticamente la cantidad de apoyos recibidos y
+muestra el avance de la petición en tiempo real.
+
+Cuando la petición alcanza el número de apoyos establecido, el sistema
+genera un documento en formato PDF con la información 
+de la causa y el listado de apoyos para presentarlo ante la entidad correspondiente.
